@@ -1,12 +1,11 @@
 Here's the complete, properly formatted **README.md** for your TF-IDF Search Engine project:
 
-```markdown
-# 🔍 TF-IDF Search Engine - Intelligent Document Retrieval
+🔍 TF-IDF Search Engine - Intelligent Document Retrieval
 
 ![Search Engine Demo](demo.gif)  
 *Real-time search with voice input and smart suggestions*
 
-## 📖 Introduction
+📖 Introduction
 A production-ready search engine implementing **TF-IDF (Term Frequency-Inverse Document Frequency)** algorithm with Flask backend and React frontend. This project demonstrates how statistical text analysis can deliver Google-quality search results without machine learning, featuring:
 
 - Instant search with relevance percentage scoring
@@ -15,7 +14,7 @@ A production-ready search engine implementing **TF-IDF (Term Frequency-Inverse D
 - Paginated results with snippet previews
 - Cached computations for fast performance
 
-## 🎯 Problem Statement
+🎯 Problem Statement
 | Traditional Search Problems | Our Solution |
 |----------------------------|--------------|
 | Keyword matching without context | TF-IDF statistical relevance ranking |
@@ -23,7 +22,7 @@ A production-ready search engine implementing **TF-IDF (Term Frequency-Inverse D
 | Static results | Dynamic scoring with document freshness |
 | Complex setup | Single-command deployment |
 
-## 🛠️ Solution Architecture
+🛠️ Solution Architecture
 ```mermaid
 graph LR
     A[User Query] --> B{NLP Preprocessing}
@@ -36,7 +35,7 @@ graph LR
     B --> H[Query Suggestions]
 ```
 
-## 🧰 Technology Stack
+🧰 Technology Stack
 ### Backend
 - **Core**: Python 3.10, Flask, Flask-CORS
 - **NLP**: NLTK (stemming, stopwords), NumPy
@@ -47,7 +46,7 @@ graph LR
 - **UI**: Tailwind CSS, Heroicons
 - **Features**: Web Speech API, localStorage history
 
-## 🏗️ Project Scope
+🏗️ Project Scope
 ### Implemented Features
 ✅ Full TF-IDF with cosine similarity  
 ✅ Voice search with microphone feedback  
