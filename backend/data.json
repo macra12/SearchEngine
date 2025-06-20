@@ -1,0 +1,2102 @@
+[
+    {
+        "id": 1, 
+        "title": "Introduction to Machine Learning", 
+        "content": "Machine learning is a subset of artificial intelligence that focuses on building systems that learn from data. It includes supervised, unsupervised, and reinforcement learning techniques.",
+        "url": "/doc1",
+        "lastUpdated": "2024-03-15"
+    },
+    {
+        "id": 2, 
+        "title": "Deep Learning Fundamentals", 
+        "content": "Deep learning uses neural networks with multiple layers to learn complex patterns in large amounts of data. Applications include image recognition and natural language processing.",
+        "url": "/doc2",
+        "lastUpdated": "2024-04-22"
+    },
+    {
+        "id": 3, 
+        "title": "Natural Language Processing Techniques", 
+        "content": "NLP enables computers to understand, interpret, and generate human language through machine learning. Key techniques include tokenization, stemming, and named entity recognition.",
+        "url": "/doc3",
+        "lastUpdated": "2024-02-10"
+    },
+    {
+        "id": 4, 
+        "title": "TF-IDF Algorithm Explained", 
+        "content": "TF-IDF is a statistical measure that evaluates how relevant a word is to a document in a collection. It combines term frequency with inverse document frequency.",
+        "url": "/doc4",
+        "lastUpdated": "2024-05-05"
+    },
+    {
+        "id": 5, 
+        "title": "Voice Recognition Systems", 
+        "content": "Modern voice recognition systems use deep learning to convert spoken language into text with high accuracy. They employ neural networks trained on large speech datasets.",
+        "url": "/doc5",
+        "lastUpdated": "2024-01-18"
+    },
+    {
+        "id": 6, 
+        "title": "Information Retrieval Systems", 
+        "content": "Information retrieval systems help users find relevant information from large collections. They use ranking algorithms like BM25 and vector space models.",
+        "url": "/doc6",
+        "lastUpdated": "2024-03-28"
+    },
+    {
+        "id": 7, 
+        "title": "Search Engine Architecture", 
+        "content": "Modern search engines consist of crawlers, indexers, and query processors. They handle billions of queries daily using distributed systems.",
+        "url": "/doc7",
+        "lastUpdated": "2024-04-05"
+    },
+    {
+        "id": 8, 
+        "title": "Relevance Ranking Algorithms", 
+        "content": "Relevance ranking determines the order of search results. Popular algorithms include PageRank, BM25, and neural ranking models.",
+        "url": "/doc8",
+        "lastUpdated": "2024-02-20"
+    },
+    {
+        "id": 9, 
+        "title": "Text Preprocessing Techniques", 
+        "content": "Text preprocessing includes tokenization, stopword removal, stemming, and lemmatization. These techniques prepare text for machine learning.",
+        "url": "/doc9",
+        "lastUpdated": "2024-05-12"
+    },
+    {
+        "id": 10, 
+        "title": "Vector Space Models in NLP", 
+        "content": "Vector space models represent documents and queries as vectors in high-dimensional space. Similarity is measured using cosine similarity.",
+        "url": "/doc10",
+        "lastUpdated": "2024-01-30"
+    },
+    {
+        "id": 11,
+        "title": "Neural Network Architectures",
+        "content": "Common neural network architectures include CNNs for image processing, RNNs for sequential data, and transformers for NLP tasks. Each has specialized layer designs for specific data types.",
+        "url": "/doc11",
+        "lastUpdated": "2024-03-18"
+    },
+    {
+        "id": 12,
+        "title": "Data Preprocessing Pipelines",
+        "content": "Effective data pipelines clean, normalize, and transform raw data into suitable formats for machine learning. Includes handling missing values and feature scaling.",
+        "url": "/doc12",
+        "lastUpdated": "2024-04-02"
+    },
+    {
+        "id": 13,
+        "title": "Blockchain Fundamentals",
+        "content": "Blockchain is a distributed ledger technology using cryptographic chaining of blocks. Enables decentralized applications and cryptocurrencies through consensus mechanisms.",
+        "url": "/doc13",
+        "lastUpdated": "2024-01-25"
+    },
+    {
+        "id": 14,
+        "title": "Cloud Computing Models",
+        "content": "IaaS, PaaS, and SaaS represent different cloud service layers. Provides scalable resources over the internet with pay-as-you-go pricing models.",
+        "url": "/doc14",
+        "lastUpdated": "2024-05-18"
+    },
+    {
+        "id": 15,
+        "title": "Containerization with Docker",
+        "content": "Docker packages applications into standardized containers for portability across environments. Uses kernel-level virtualization for efficient resource utilization.",
+        "url": "/doc15",
+        "lastUpdated": "2024-02-14"
+    },
+    {
+        "id": 16,
+        "title": "Kubernetes Orchestration",
+        "content": "Kubernetes automates deployment, scaling, and management of containerized applications. Provides service discovery and load balancing for microservices.",
+        "url": "/doc16",
+        "lastUpdated": "2024-04-30"
+    },
+    {
+        "id": 17,
+        "title": "Big Data Processing Frameworks",
+        "content": "Apache Spark and Hadoop enable distributed processing of large datasets across clusters. Utilizes in-memory computing for faster analytics.",
+        "url": "/doc17",
+        "lastUpdated": "2024-03-08"
+    },
+    {
+        "id": 18,
+        "title": "Data Warehousing Concepts",
+        "content": "Data warehouses consolidate information from multiple sources for analytical processing. Features dimensional modeling and OLAP capabilities.",
+        "url": "/doc18",
+        "lastUpdated": "2024-01-12"
+    },
+    {
+        "id": 19,
+        "title": "CI/CD Pipelines",
+        "content": "Continuous Integration and Deployment automates software testing and delivery. Enables frequent releases with automated quality gates.",
+        "url": "/doc19",
+        "lastUpdated": "2024-05-22"
+    },
+    {
+        "id": 20,
+        "title": "REST API Design Principles",
+        "content": "RESTful APIs use HTTP methods and resource-oriented URLs. Stateless communication with JSON/XML payloads following standard conventions.",
+        "url": "/doc20",
+        "lastUpdated": "2024-02-28"
+    },
+    {
+        "id": 21,
+        "title": "GraphQL Fundamentals",
+        "content": "GraphQL enables clients to request specific data structures in a single query. Provides flexible schemas and reduces over-fetching issues.",
+        "url": "/doc21",
+        "lastUpdated": "2024-04-08"
+    },
+    {
+        "id": 22,
+        "title": "Microservices Architecture",
+        "content": "Microservices decompose applications into small, independent services. Each runs in its own process and communicates via lightweight protocols.",
+        "url": "/doc22",
+        "lastUpdated": "2024-03-22"
+    },
+    {
+        "id": 23,
+        "title": "Serverless Computing",
+        "content": "Serverless abstracts infrastructure management using event-driven execution. Providers automatically scale resources based on demand.",
+        "url": "/doc23",
+        "lastUpdated": "2024-01-08"
+    },
+    {
+        "id": 24,
+        "title": "Cybersecurity Threat Models",
+        "content": "STRIDE and DREAD frameworks help identify system vulnerabilities. Focuses on spoofing, tampering, repudiation, and denial of service risks.",
+        "url": "/doc24",
+        "lastUpdated": "2024-05-15"
+    },
+    {
+        "id": 25,
+        "title": "Cryptographic Hash Functions",
+        "content": "SHA-256 and MD5 generate fixed-size outputs from arbitrary data inputs. Used for data integrity verification and digital signatures.",
+        "url": "/doc25",
+        "lastUpdated": "2024-02-05"
+    },
+    {
+        "id": 26,
+        "title": "Public Key Infrastructure",
+        "content": "PKI manages digital certificates and public-key encryption. Enables secure communication through certificate authorities and revocation lists.",
+        "url": "/doc26",
+        "lastUpdated": "2024-04-25"
+    },
+    {
+        "id": 27,
+        "title": "Agile Development Methodologies",
+        "content": "Scrum and Kanban implement iterative development with continuous feedback. Focuses on delivering working software in short sprints.",
+        "url": "/doc27",
+        "lastUpdated": "2024-03-12"
+    },
+    {
+        "id": 28,
+        "title": "DevOps Culture Practices",
+        "content": "DevOps bridges development and operations through automation and collaboration. Emphasizes infrastructure as code and continuous monitoring.",
+        "url": "/doc28",
+        "lastUpdated": "2024-01-22"
+    },
+    {
+        "id": 29,
+        "title": "Data Visualization Principles",
+        "content": "Effective visualizations use appropriate chart types and color theory. Tools like Matplotlib and Tableau help reveal patterns in complex datasets.",
+        "url": "/doc29",
+        "lastUpdated": "2024-05-08"
+    },
+    {
+        "id": 30,
+        "title": "Statistical Hypothesis Testing",
+        "content": "T-tests, ANOVA, and chi-square validate assumptions about datasets. Determines statistical significance through p-value calculations.",
+        "url": "/doc30",
+        "lastUpdated": "2024-02-18"
+    },
+    {
+        "id": 31,
+        "title": "Reinforcement Learning Basics",
+        "content": "RL agents learn through reward-based interactions with environments. Uses Q-learning and policy gradients to maximize cumulative rewards.",
+        "url": "/doc31",
+        "lastUpdated": "2024-04-12"
+    },
+    {
+        "id": 32,
+        "title": "Computer Vision Fundamentals",
+        "content": "CV enables machines to interpret visual data through image processing. Techniques include object detection, segmentation, and feature extraction.",
+        "url": "/doc32",
+        "lastUpdated": "2024-03-05"
+    },
+    {
+        "id": 33,
+        "title": "Edge Computing Architecture",
+        "content": "Edge computing processes data near its source to reduce latency. Ideal for IoT devices requiring real-time responses with limited bandwidth.",
+        "url": "/doc33",
+        "lastUpdated": "2024-01-15"
+    },
+    {
+        "id": 34,
+        "title": "IoT Communication Protocols",
+        "content": "MQTT, CoAP, and AMQP enable efficient device-to-device communication. Designed for constrained environments with low power requirements.",
+        "url": "/doc34",
+        "lastUpdated": "2024-05-25"
+    },
+    {
+        "id": 35,
+        "title": "Quantum Computing Basics",
+        "content": "Quantum computers use qubits and quantum gates for parallel computation. Enables solving complex problems intractable for classical computers.",
+        "url": "/doc35",
+        "lastUpdated": "2024-02-08"
+    },
+    {
+        "id": 36,
+        "title": "Database Indexing Strategies",
+        "content": "Indexes accelerate query performance through optimized data structures. B-trees and hash indexes balance read/write efficiency for different workloads.",
+        "url": "/doc36",
+        "lastUpdated": "2024-04-17"
+    },
+    {
+        "id": 37,
+        "title": "ACID Transaction Properties",
+        "content": "Atomicity, Consistency, Isolation, and Durability ensure reliable database operations. Implemented through locking and write-ahead logging.",
+        "url": "/doc37",
+        "lastUpdated": "2024-03-25"
+    },
+    {
+        "id": 38,
+        "title": "NoSQL Database Types",
+        "content": "Document, key-value, columnar, and graph databases handle unstructured data. Provide horizontal scaling and flexible schemas.",
+        "url": "/doc38",
+        "lastUpdated": "2024-01-05"
+    },
+    {
+        "id": 39,
+        "title": "Distributed Systems Patterns",
+        "content": "Leader election, consistent hashing, and gossip protocols maintain system coordination. Ensures fault tolerance in large-scale deployments.",
+        "url": "/doc39",
+        "lastUpdated": "2024-05-28"
+    },
+    {
+        "id": 40,
+        "title": "Message Queue Systems",
+        "content": "Kafka and RabbitMQ enable asynchronous communication between services. Provides durable messaging with publish-subscribe patterns.",
+        "url": "/doc40",
+        "lastUpdated": "2024-02-22"
+    },
+    {
+        "id": 41,
+        "title": "Web Security Best Practices",
+        "content": "HTTPS, CSP, and CORS protect against XSS and CSRF attacks. Regular vulnerability scanning and input validation are essential defenses.",
+        "url": "/doc41",
+        "lastUpdated": "2024-04-14"
+    },
+    {
+        "id": 42,
+        "title": "OAuth 2.0 Authorization Framework",
+        "content": "OAuth enables secure delegated access through token exchange. Roles include resource owner, client, and authorization server.",
+        "url": "/doc42",
+        "lastUpdated": "2024-03-02"
+    },
+    {
+        "id": 43,
+        "title": "Responsive Web Design",
+        "content": "CSS media queries and flexible layouts adapt content to different screen sizes. Mobile-first approach enhances cross-device user experience.",
+        "url": "/doc43",
+        "lastUpdated": "2024-01-28"
+    },
+    {
+        "id": 44,
+        "title": "Progressive Web Apps",
+        "content": "PWAs combine web and mobile app experiences with offline capabilities. Utilize service workers and web app manifests for native-like features.",
+        "url": "/doc44",
+        "lastUpdated": "2024-05-02"
+    },
+    {
+        "id": 45,
+        "title": "Functional Programming Concepts",
+        "content": "Immutable data, pure functions, and higher-order functions minimize side effects. Languages like Haskell and Scala emphasize declarative patterns.",
+        "url": "/doc45",
+        "lastUpdated": "2024-02-12"
+    },
+    {
+        "id": 46,
+        "title": "Concurrency Models",
+        "content": "Threads, async/await, and actors handle parallel task execution. Requires synchronization mechanisms to prevent race conditions.",
+        "url": "/doc46",
+        "lastUpdated": "2024-04-28"
+    },
+    {
+        "id": 47,
+        "title": "GPU Acceleration Techniques",
+        "content": "CUDA and OpenCL parallelize computations across graphics processors. Dramatically speeds up matrix operations in deep learning.",
+        "url": "/doc47",
+        "lastUpdated": "2024-03-09"
+    },
+    {
+        "id": 48,
+        "title": "AutoML Platforms",
+        "content": "Automated machine learning simplifies model selection and hyperparameter tuning. Tools like Auto-sklearn and H2O democratize AI development.",
+        "url": "/doc48",
+        "lastUpdated": "2024-01-19"
+    },
+    {
+        "id": 49,
+        "title": "Explainable AI Methods",
+        "content": "LIME and SHAP provide interpretability for complex models. Increases transparency by highlighting feature importance in predictions.",
+        "url": "/doc49",
+        "lastUpdated": "2024-05-20"
+    },
+    {
+        "id": 50,
+        "title": "Generative Adversarial Networks",
+        "content": "GANs use generator-discriminator duels to create realistic synthetic data. Applied in image generation, style transfer, and data augmentation.",
+        "url": "/doc50",
+        "lastUpdated": "2024-02-25"
+    },
+    {
+        "id": 51,
+        "title": "Transfer Learning Approaches",
+        "content": "Reusing pretrained models accelerates training on new tasks with limited data. Fine-tuning and feature extraction are common strategies.",
+        "url": "/doc51",
+        "lastUpdated": "2024-04-05"
+    },
+    {
+        "id": 52,
+        "title": "Time Series Forecasting",
+        "content": "ARIMA, LSTM, and Prophet models predict future values from temporal data. Requires handling seasonality and trend components.",
+        "url": "/doc52",
+        "lastUpdated": "2024-03-15"
+    },
+    {
+        "id": 53,
+        "title": "Anomaly Detection Techniques",
+        "content": "Isolation forests and autoencoders identify unusual patterns in data. Critical for fraud detection and system monitoring applications.",
+        "url": "/doc53",
+        "lastUpdated": "2024-01-10"
+    },
+    {
+        "id": 54,
+        "title": "Recommendation System Algorithms",
+        "content": "Collaborative filtering and content-based methods personalize suggestions. Matrix factorization handles sparse user-item interactions.",
+        "url": "/doc54",
+        "lastUpdated": "2024-05-30"
+    },
+    {
+        "id": 55,
+        "title": "Semantic Web Technologies",
+        "content": "RDF, OWL, and SPARQL enable machine-readable data relationships. Forms foundation for knowledge graphs and linked data.",
+        "url": "/doc55",
+        "lastUpdated": "2024-02-15"
+    },
+    {
+        "id": 56,
+        "title": "Augmented Reality Development",
+        "content": "ARKit and ARCore create interactive experiences blending digital objects with real environments. Uses SLAM for spatial mapping.",
+        "url": "/doc56",
+        "lastUpdated": "2024-04-20"
+    },
+    {
+        "id": 57,
+        "title": "Data Governance Frameworks",
+        "content": "Establishes policies for data quality, security, and compliance. Includes metadata management and lineage tracking.",
+        "url": "/doc57",
+        "lastUpdated": "2024-03-28"
+    },
+    {
+        "id": 58,
+        "title": "Feature Engineering Methods",
+        "content": "Creates meaningful input variables from raw data through transformation. Techniques include binning, polynomial features, and embeddings.",
+        "url": "/doc58",
+        "lastUpdated": "2024-01-07"
+    },
+    {
+        "id": 59,
+        "title": "Model Deployment Strategies",
+        "content": "Blue-green deployments and canary releases minimize downtime during model updates. Requires robust monitoring for performance drift.",
+        "url": "/doc59",
+        "lastUpdated": "2024-05-10"
+    },
+    {
+        "id": 60,
+        "title": "A/B Testing Methodology",
+        "content": "Statistical comparison of two variants measures intervention effectiveness. Requires random sampling and significance threshold determination.",
+        "url": "/doc60",
+        "lastUpdated": "2024-02-03"
+    },
+    {
+        "id": 61,
+        "title": "Network Security Protocols",
+        "content": "TLS, IPsec, and SSH provide secure communication channels over networks. Implement encryption, authentication, and integrity verification.",
+        "url": "/doc61",
+        "lastUpdated": "2024-03-01"
+    },
+    {
+        "id": 62,
+        "title": "WebAssembly Technology",
+        "content": "WebAssembly enables near-native performance for web applications. Provides a portable compilation target for languages like C/C++ and Rust.",
+        "url": "/doc62",
+        "lastUpdated": "2024-04-10"
+    },
+    {
+        "id": 63,
+        "title": "Distributed Ledger Applications",
+        "content": "Beyond cryptocurrencies, distributed ledgers enable supply chain tracking, identity management, and secure voting systems.",
+        "url": "/doc63",
+        "lastUpdated": "2024-01-20"
+    },
+    {
+        "id": 64,
+        "title": "Biometric Authentication Systems",
+        "content": "Fingerprint, facial, and iris recognition provide secure user authentication. Balance security with privacy considerations.",
+        "url": "/doc64",
+        "lastUpdated": "2024-05-05"
+    },
+    {
+        "id": 65,
+        "title": "Geospatial Data Analysis",
+        "content": "GIS systems process location-based data for mapping, navigation, and spatial analytics. Use coordinate systems and projection methods.",
+        "url": "/doc65",
+        "lastUpdated": "2024-02-15"
+    },
+    {
+        "id": 66,
+        "title": "Real-time Data Processing",
+        "content": "Stream processing frameworks handle continuous data flows with low latency. Technologies like Apache Flink and Kafka Streams enable immediate insights.",
+        "url": "/doc66",
+        "lastUpdated": "2024-03-22"
+    },
+    {
+        "id": 67,
+        "title": "Ethical AI Principles",
+        "content": "Responsible AI development addresses fairness, accountability, and transparency. Mitigates bias and ensures ethical decision-making.",
+        "url": "/doc67",
+        "lastUpdated": "2024-04-18"
+    },
+    {
+        "id": 68,
+        "title": "Virtual Reality Development",
+        "content": "VR creates immersive simulated environments using headsets and controllers. Applications in gaming, training, and virtual tourism.",
+        "url": "/doc68",
+        "lastUpdated": "2024-01-30"
+    },
+    {
+        "id": 69,
+        "title": "API Gateway Patterns",
+        "content": "API gateways manage microservices communication, providing routing, authentication, and rate limiting in distributed systems.",
+        "url": "/doc69",
+        "lastUpdated": "2024-05-25"
+    },
+    {
+        "id": 70,
+        "title": "Data Compression Algorithms",
+        "content": "Lossless and lossy compression techniques reduce data size for storage and transmission. Common algorithms include DEFLATE, LZ77, and JPEG.",
+        "url": "/doc70",
+        "lastUpdated": "2024-02-28"
+    },
+    {
+        "id": 71,
+        "title": "Multi-cloud Strategies",
+        "content": "Distributing workloads across multiple cloud providers enhances resilience and avoids vendor lock-in.",
+        "url": "/doc71",
+        "lastUpdated": "2024-03-15"
+    },
+    {
+        "id": 72,
+        "title": "Zero Trust Security Model",
+        "content": "Never trust, always verify approach to network security. Requires strict identity verification for all access requests.",
+        "url": "/doc72",
+        "lastUpdated": "2024-04-05"
+    },
+    {
+        "id": 73,
+        "title": "Digital Twin Technology",
+        "content": "Virtual replicas of physical assets enable simulation, monitoring, and optimization of real-world systems.",
+        "url": "/doc73",
+        "lastUpdated": "2024-01-10"
+    },
+    {
+        "id": 74,
+        "title": "Robotic Process Automation",
+        "content": "RPA automates repetitive tasks using software bots, improving efficiency and reducing human error in business processes.",
+        "url": "/doc74",
+        "lastUpdated": "2024-05-15"
+    },
+    {
+        "id": 75,
+        "title": "5G Network Architecture",
+        "content": "Fifth-generation mobile networks provide high-speed, low-latency connectivity enabling IoT, AR/VR, and autonomous vehicles.",
+        "url": "/doc75",
+        "lastUpdated": "2024-02-10"
+    },
+    {
+        "id": 76,
+        "title": "Data Mesh Architecture",
+        "content": "Decentralized approach to data management where domain teams own their data products with standardized interfaces.",
+        "url": "/doc76",
+        "lastUpdated": "2024-03-28"
+    },
+    {
+        "id": 77,
+        "title": "Chaos Engineering Practices",
+        "content": "Deliberately injecting failures into systems to build resilience and verify fault tolerance mechanisms.",
+        "url": "/doc77",
+        "lastUpdated": "2024-04-22"
+    },
+    {
+        "id": 78,
+        "title": "Low-code Development Platforms",
+        "content": "Visual development environments enable rapid application creation with minimal hand-coding.",
+        "url": "/doc78",
+        "lastUpdated": "2024-01-25"
+    },
+    {
+        "id": 79,
+        "title": "Digital Forensics Techniques",
+        "content": "Methods for recovering and investigating material found in digital devices during cybersecurity incidents.",
+        "url": "/doc79",
+        "lastUpdated": "2024-05-20"
+    },
+    {
+        "id": 80,
+        "title": "Web3 and Decentralized Applications",
+        "content": "Blockchain-based internet paradigm enabling user-owned data and decentralized applications (dApps).",
+        "url": "/doc80",
+        "lastUpdated": "2024-02-20"
+    },
+    {
+        "id": 81,
+        "title": "Natural Language Generation",
+        "content": "AI systems that transform structured data into human-readable text for reports, summaries, and content creation.",
+        "url": "/doc81",
+        "lastUpdated": "2024-03-05"
+    },
+    {
+        "id": 82,
+        "title": "Knowledge Representation in AI",
+        "content": "Methods for storing and organizing information that AI systems can use to solve complex problems.",
+        "url": "/doc82",
+        "lastUpdated": "2024-04-12"
+    },
+    {
+        "id": 83,
+        "title": "Optical Character Recognition",
+        "content": "Technology that converts different types of documents into editable and searchable data.",
+        "url": "/doc83",
+        "lastUpdated": "2024-01-15"
+    },
+    {
+        "id": 84,
+        "title": "Sentiment Analysis Techniques",
+        "content": "NLP methods for identifying and extracting subjective information from text data to determine sentiment polarity.",
+        "url": "/doc84",
+        "lastUpdated": "2024-05-28"
+    },
+    {
+        "id": 85,
+        "title": "Federated Learning Systems",
+        "content": "Decentralized machine learning approach where models are trained across multiple devices holding local data samples.",
+        "url": "/doc85",
+        "lastUpdated": "2024-02-25"
+    },
+    {
+        "id": 86,
+        "title": "Smart Contract Development",
+        "content": "Self-executing contracts with terms directly written into code, deployed on blockchain platforms.",
+        "url": "/doc86",
+        "lastUpdated": "2024-03-18"
+    },
+    {
+        "id": 87,
+        "title": "Infrastructure as Code Tools",
+        "content": "Terraform, Ansible, and CloudFormation enable programmable infrastructure management through configuration files.",
+        "url": "/doc87",
+        "lastUpdated": "2024-04-30"
+    },
+    {
+        "id": 88,
+        "title": "Dark Web Monitoring",
+        "content": "Techniques for scanning underground networks to detect stolen credentials and potential threats.",
+        "url": "/doc88",
+        "lastUpdated": "2024-01-08"
+    },
+    {
+        "id": 89,
+        "title": "Robotics Perception Systems",
+        "content": "Sensors and algorithms that enable robots to understand and interact with their environment.",
+        "url": "/doc89",
+        "lastUpdated": "2024-05-12"
+    },
+    {
+        "id": 90,
+        "title": "Data Annotation Best Practices",
+        "content": "Methods for creating high-quality training datasets through accurate labeling of data samples.",
+        "url": "/doc90",
+        "lastUpdated": "2024-02-03"
+    },
+    {
+        "id": 91,
+        "title": "Hyperautomation Strategies",
+        "content": "Combining RPA, AI, and process mining to automate complex business processes end-to-end.",
+        "url": "/doc91",
+        "lastUpdated": "2024-03-08"
+    },
+    {
+        "id": 92,
+        "title": "Cyber-Physical Systems",
+        "content": "Integrated computational and physical components that interact with the physical world.",
+        "url": "/doc92",
+        "lastUpdated": "2024-04-25"
+    },
+    {
+        "id": 93,
+        "title": "Neuromorphic Computing",
+        "content": "Computer architecture modeled after the human brain's neural structure for efficient AI processing.",
+        "url": "/doc93",
+        "lastUpdated": "2024-01-18"
+    },
+    {
+        "id": 94,
+        "title": "Digital Identity Solutions",
+        "content": "Technologies for secure and portable digital identities that users control across services.",
+        "url": "/doc94",
+        "lastUpdated": "2024-05-22"
+    },
+    {
+        "id": 95,
+        "title": "Bioinformatics Algorithms",
+        "content": "Computational methods for analyzing biological data including DNA sequences and protein structures.",
+        "url": "/doc95",
+        "lastUpdated": "2024-02-12"
+    },
+    {
+        "id": 96,
+        "title": "Homomorphic Encryption",
+        "content": "Cryptographic method that allows computation on encrypted data without decryption.",
+        "url": "/doc96",
+        "lastUpdated": "2024-03-25"
+    },
+    {
+        "id": 97,
+        "title": "Ambient Computing Environments",
+        "content": "Technology that blends into surroundings to provide context-aware services without explicit commands.",
+        "url": "/doc97",
+        "lastUpdated": "2024-04-15"
+    },
+    {
+        "id": 98,
+        "title": "Causal Inference Methods",
+        "content": "Statistical techniques for determining cause-effect relationships from observational data.",
+        "url": "/doc98",
+        "lastUpdated": "2024-01-22"
+    },
+    {
+        "id": 99,
+        "title": "Generative Design Systems",
+        "content": "AI-driven design approach that explores all possible solutions to find optimal designs.",
+        "url": "/doc99",
+        "lastUpdated": "2024-05-30"
+    },
+    {
+        "id": 100,
+        "title": "Extended Reality Platforms",
+        "content": "Continuum encompassing virtual, augmented, and mixed reality technologies for immersive experiences.",
+        "url": "/doc100",
+        "lastUpdated": "2024-02-05"
+    },
+    {
+        "id": 101,
+        "title": "Synthetic Data Generation",
+        "content": "Creating artificial datasets that mimic real data for training AI models without privacy concerns.",
+        "url": "/doc101",
+        "lastUpdated": "2024-03-12"
+    },
+    {
+        "id": 102,
+        "title": "Data Fabric Architecture",
+        "content": "Unified data management framework that provides consistent capabilities across diverse environments.",
+        "url": "/doc102",
+        "lastUpdated": "2024-04-08"
+    },
+    {
+        "id": 103,
+        "title": "Digital Signal Processing",
+        "content": "Algorithms for analyzing and manipulating digital signals such as audio, video, and sensor data.",
+        "url": "/doc103",
+        "lastUpdated": "2024-01-12"
+    },
+    {
+        "id": 104,
+        "title": "Bio-inspired Computing",
+        "content": "Algorithms modeled after biological systems such as neural networks, genetic algorithms, and swarm intelligence.",
+        "url": "/doc104",
+        "lastUpdated": "2024-05-18"
+    },
+    {
+        "id": 105,
+        "title": "Cognitive Computing Systems",
+        "content": "AI systems that simulate human thought processes to enhance decision-making in complex situations.",
+        "url": "/doc105",
+        "lastUpdated": "2024-02-15"
+    },
+    {
+        "id": 106,
+        "title": "Multi-agent Systems",
+        "content": "Coordinated groups of AI agents that work together to solve problems beyond individual capabilities.",
+        "url": "/doc106",
+        "lastUpdated": "2024-03-22"
+    },
+    {
+        "id": 107,
+        "title": "Human-Robot Interaction",
+        "content": "Design principles for creating intuitive interfaces between humans and robotic systems.",
+        "url": "/doc107",
+        "lastUpdated": "2024-04-28"
+    },
+    {
+        "id": 108,
+        "title": "Satellite Communication Systems",
+        "content": "Technology enabling global connectivity through orbiting satellites for internet, GPS, and remote sensing.",
+        "url": "/doc108",
+        "lastUpdated": "2024-01-05"
+    },
+    {
+        "id": 109,
+        "title": "Autonomous Vehicle Navigation",
+        "content": "Sensors, algorithms, and control systems enabling self-driving cars to navigate complex environments.",
+        "url": "/doc109",
+        "lastUpdated": "2024-05-10"
+    },
+    {
+        "id": 110,
+        "title": "Industrial IoT Applications",
+        "content": "Smart sensors and connectivity in manufacturing for predictive maintenance and process optimization.",
+        "url": "/doc110",
+        "lastUpdated": "2024-02-28"
+    },
+    {
+        "id": 111,
+        "title": "Smart City Technologies",
+        "content": "Integrated solutions for urban infrastructure management including traffic, energy, and public services.",
+        "url": "/doc111",
+        "lastUpdated": "2024-03-15"
+    },
+    {
+        "id": 112,
+        "title": "Digital Marketing Analytics",
+        "content": "Data-driven approaches to measure and optimize online marketing campaigns across channels.",
+        "url": "/doc112",
+        "lastUpdated": "2024-04-20"
+    },
+    {
+        "id": 113,
+        "title": "Computational Biology Methods",
+        "content": "Algorithmic approaches for modeling biological systems and analyzing genomic data.",
+        "url": "/doc113",
+        "lastUpdated": "2024-01-25"
+    },
+    {
+        "id": 114,
+        "title": "Fintech Innovations",
+        "content": "Technology transforming financial services through mobile banking, blockchain, and AI-powered solutions.",
+        "url": "/doc114",
+        "lastUpdated": "2024-05-05"
+    },
+    {
+        "id": 115,
+        "title": "E-commerce Personalization",
+        "content": "AI-driven techniques for creating tailored shopping experiences based on user behavior.",
+        "url": "/doc115",
+        "lastUpdated": "2024-02-10"
+    },
+    {
+        "id": 116,
+        "title": "Telemedicine Platforms",
+        "content": "Technologies enabling remote healthcare consultations, monitoring, and diagnosis.",
+        "url": "/doc116",
+        "lastUpdated": "2024-03-30"
+    },
+    {
+        "id": 117,
+        "title": "Energy Harvesting Systems",
+        "content": "Techniques for capturing ambient energy from the environment to power small electronic devices.",
+        "url": "/doc117",
+        "lastUpdated": "2024-04-10"
+    },
+    {
+        "id": 118,
+        "title": "Digital Twins in Manufacturing",
+        "content": "Virtual replicas of physical assets enabling simulation, monitoring, and optimization of production systems.",
+        "url": "/doc118",
+        "lastUpdated": "2024-01-15"
+    },
+    {
+        "id": 119,
+        "title": "Wireless Sensor Networks",
+        "content": "Distributed autonomous sensors that monitor physical conditions and cooperatively pass data through networks.",
+        "url": "/doc119",
+        "lastUpdated": "2024-05-22"
+    },
+    {
+        "id": 120,
+        "title": "Cognitive Radio Technology",
+        "content": "Intelligent wireless communication systems that detect available channels in wireless spectrum.",
+        "url": "/doc120",
+        "lastUpdated": "2024-02-25"
+    },
+    {
+        "id": 121,
+        "title": "3D Printing Technologies",
+        "content": "Additive manufacturing processes that build objects layer by layer from digital models.",
+        "url": "/doc121",
+        "lastUpdated": "2024-03-18"
+    },
+    {
+        "id": 122,
+        "title": "Digital Currency Systems",
+        "content": "Electronic forms of currency including cryptocurrencies and central bank digital currencies (CBDCs).",
+        "url": "/doc122",
+        "lastUpdated": "2024-04-25"
+    },
+    {
+        "id": 123,
+        "title": "Smart Grid Technology",
+        "content": "Modern electrical grids with digital communication for efficient energy distribution and management.",
+        "url": "/doc123",
+        "lastUpdated": "2024-01-08"
+    },
+    {
+        "id": 124,
+        "title": "Nanotechnology Applications",
+        "content": "Engineering functional systems at molecular scale for medicine, electronics, and materials science.",
+        "url": "/doc124",
+        "lastUpdated": "2024-05-15"
+    },
+    {
+        "id": 125,
+        "title": "Affective Computing",
+        "content": "Systems that recognize, interpret, and simulate human emotions for improved human-computer interaction.",
+        "url": "/doc125",
+        "lastUpdated": "2024-02-03"
+    },
+    {
+        "id": 126,
+        "title": "Optical Computing",
+        "content": "Computing using photons rather than electrons for potentially faster and more efficient processing.",
+        "url": "/doc126",
+        "lastUpdated": "2024-03-05"
+    },
+    {
+        "id": 127,
+        "title": "Swarm Robotics",
+        "content": "Coordinated behavior of large numbers of simple robots inspired by social insects.",
+        "url": "/doc127",
+        "lastUpdated": "2024-04-12"
+    },
+    {
+        "id": 128,
+        "title": "Haptic Feedback Systems",
+        "content": "Technology that recreates the sense of touch through vibrations, forces, or motions.",
+        "url": "/doc128",
+        "lastUpdated": "2024-01-20"
+    },
+    {
+        "id": 129,
+        "title": "Brain-Computer Interfaces",
+        "content": "Direct communication pathways between enhanced brain and external devices.",
+        "url": "/doc129",
+        "lastUpdated": "2024-05-28"
+    },
+    {
+        "id": 130,
+        "title": "Spatial Computing",
+        "content": "Human interaction with 3D spaces blending physical and virtual environments through AR/VR.",
+        "url": "/doc130",
+        "lastUpdated": "2024-02-15"
+    },
+    {
+        "id": 131,
+        "title": "Digital Pathology Systems",
+        "content": "Digitization of pathology slides enabling AI-assisted diagnosis and remote collaboration.",
+        "url": "/doc131",
+        "lastUpdated": "2024-03-22"
+    },
+    {
+        "id": 132,
+        "title": "Computational Photography",
+        "content": "Digital image capture and processing techniques that enhance or extend capabilities of photography.",
+        "url": "/doc132",
+        "lastUpdated": "2024-04-30"
+    },
+    {
+        "id": 133,
+        "title": "Smart Materials Technology",
+        "content": "Materials that change properties in response to external stimuli like temperature, pressure, or electric fields.",
+        "url": "/doc133",
+        "lastUpdated": "2024-01-12"
+    },
+    {
+        "id": 134,
+        "title": "Molecular Computing",
+        "content": "Computing using molecular biology devices instead of traditional silicon-based technologies.",
+        "url": "/doc134",
+        "lastUpdated": "2024-05-10"
+    },
+    {
+        "id": 135,
+        "title": "Agricultural Technology",
+        "content": "Precision farming, IoT sensors, and AI for optimizing crop yields and resource management.",
+        "url": "/doc135",
+        "lastUpdated": "2024-02-20"
+    },
+    {
+        "id": 136,
+        "title": "Clean Energy Technology",
+        "content": "Innovations in solar, wind, and hydrogen energy systems for sustainable power generation.",
+        "url": "/doc136",
+        "lastUpdated": "2024-03-08"
+    },
+    {
+        "id": 137,
+        "title": "Wearable Health Monitors",
+        "content": "Devices that track physiological data for fitness, medical diagnosis, and preventive healthcare.",
+        "url": "/doc137",
+        "lastUpdated": "2024-04-18"
+    },
+    {
+        "id": 138,
+        "title": "Autonomous Drones",
+        "content": "Self-navigating unmanned aerial vehicles for delivery, surveillance, and inspection applications.",
+        "url": "/doc138",
+        "lastUpdated": "2024-01-28"
+    },
+    {
+        "id": 139,
+        "title": "Smart Home Ecosystems",
+        "content": "Integrated networks of IoT devices for automated home management and energy efficiency.",
+        "url": "/doc139",
+        "lastUpdated": "2024-05-25"
+    },
+    {
+        "id": 140,
+        "title": "Industrial Automation Systems",
+        "content": "Robotics, control systems, and IoT for streamlining manufacturing and production processes.",
+        "url": "/doc140",
+        "lastUpdated": "2024-02-05"
+    },
+    {
+        "id": 141,
+        "title": "Retail Technology Innovations",
+        "content": "AI-powered inventory management, cashierless stores, and personalized shopping experiences.",
+        "url": "/doc141",
+        "lastUpdated": "2024-03-15"
+    },
+    {
+        "id": 142,
+        "title": "Logistics Optimization",
+        "content": "Algorithms for route planning, inventory management, and supply chain efficiency.",
+        "url": "/doc142",
+        "lastUpdated": "2024-04-22"
+    },
+    {
+        "id": 143,
+        "title": "Predictive Maintenance",
+        "content": "AI algorithms that forecast equipment failures before they occur, reducing downtime.",
+        "url": "/doc143",
+        "lastUpdated": "2024-01-10"
+    },
+    {
+        "id": 144,
+        "title": "Conversational AI Platforms",
+        "content": "Chatbots and virtual assistants using NLP to understand and respond to human queries naturally.",
+        "url": "/doc144",
+        "lastUpdated": "2024-05-30"
+    },
+    {
+        "id": 145,
+        "title": "Emotion Recognition AI",
+        "content": "Systems that detect human emotions through facial expressions, voice patterns, and physiological signals.",
+        "url": "/doc145",
+        "lastUpdated": "2024-02-25"
+    },
+    {
+        "id": 146,
+        "title": "Gesture Control Interfaces",
+        "content": "Technology enabling device control through body movements without physical contact.",
+        "url": "/doc146",
+        "lastUpdated": "2024-03-12"
+    },
+    {
+        "id": 147,
+        "title": "Voice Synthesis Technology",
+        "content": "AI systems that generate human-like speech for virtual assistants and accessibility applications.",
+        "url": "/doc147",
+        "lastUpdated": "2024-04-05"
+    },
+    {
+        "id": 148,
+        "title": "Digital Ethics Frameworks",
+        "content": "Guidelines for responsible technology development addressing privacy, bias, and societal impact.",
+        "url": "/doc148",
+        "lastUpdated": "2024-01-15"
+    },
+    {
+        "id": 149,
+        "title": "In-memory Computing",
+        "content": "Architecture where data is stored in RAM rather than disks for faster processing and analytics.",
+        "url": "/doc149",
+        "lastUpdated": "2024-05-20"
+    },
+    {
+        "id": 150,
+        "title": "Edge AI Applications",
+        "content": "Running machine learning models directly on edge devices for real-time processing without cloud dependency.",
+        "url": "/doc150",
+        "lastUpdated": "2024-02-28"
+    },
+    {
+        "id": 151,
+        "title": "Digital Forensics Tools",
+        "content": "Software for recovering, analyzing, and presenting digital evidence from electronic devices.",
+        "url": "/doc151",
+        "lastUpdated": "2024-03-25"
+    },
+    {
+        "id": 152,
+        "title": "Network Function Virtualization",
+        "content": "Replacing dedicated network appliances with virtualized instances running on commodity hardware.",
+        "url": "/doc152",
+        "lastUpdated": "2024-04-15"
+    },
+    {
+        "id": 153,
+        "title": "Software Defined Networking",
+        "content": "Network architecture approach that enables programmatic control of network behavior.",
+        "url": "/doc153",
+        "lastUpdated": "2024-01-22"
+    },
+    {
+        "id": 154,
+        "title": "Intent-Based Networking",
+        "content": "Networking systems that automatically implement policies based on business objectives.",
+        "url": "/doc154",
+        "lastUpdated": "2024-05-12"
+    },
+    {
+        "id": 155,
+        "title": "Wi-Fi 6 Technology",
+        "content": "Latest wireless standard offering higher speeds, increased capacity, and better performance in dense environments.",
+        "url": "/doc155",
+        "lastUpdated": "2024-02-10"
+    },
+    {
+        "id": 156,
+        "title": "Mesh Networking Systems",
+        "content": "Decentralized network topology where nodes cooperate to distribute data efficiently.",
+        "url": "/doc156",
+        "lastUpdated": "2024-03-28"
+    },
+    {
+        "id": 157,
+        "title": "Li-Fi Communication",
+        "content": "Wireless technology that uses light to transmit data at high speeds.",
+        "url": "/doc157",
+        "lastUpdated": "2024-04-20"
+    },
+    {
+        "id": 158,
+        "title": "Satellite Internet Technology",
+        "content": "Global broadband internet access provided through constellations of low Earth orbit satellites.",
+        "url": "/doc158",
+        "lastUpdated": "2024-01-05"
+    },
+    {
+        "id": 159,
+        "title": "Network Slicing in 5G",
+        "content": "Creating multiple virtual networks on a single physical infrastructure for different use cases.",
+        "url": "/doc159",
+        "lastUpdated": "2024-05-28"
+    },
+    {
+        "id": 160,
+        "title": "Optical Networking",
+        "content": "Communication technology using light to transmit data through fiber optic cables for high-bandwidth applications.",
+        "url": "/doc160",
+        "lastUpdated": "2024-02-15"
+    },
+    {
+        "id": 161,
+        "title": "Threat Intelligence Platforms",
+        "content": "Solutions that collect and analyze information about emerging cybersecurity threats.",
+        "url": "/doc161",
+        "lastUpdated": "2024-03-10"
+    },
+    {
+        "id": 162,
+        "title": "Security Orchestration Automation",
+        "content": "Integrating security tools and automating incident response workflows.",
+        "url": "/doc162",
+        "lastUpdated": "2024-04-25"
+    },
+    {
+        "id": 163,
+        "title": "Deception Technology",
+        "content": "Cybersecurity approach that uses decoys to detect and divert attackers.",
+        "url": "/doc163",
+        "lastUpdated": "2024-01-18"
+    },
+    {
+        "id": 164,
+        "title": "Homomorphic Encryption",
+        "content": "Cryptographic method that allows computation on encrypted data without decryption.",
+        "url": "/doc164",
+        "lastUpdated": "2024-05-15"
+    },
+    {
+        "id": 165,
+        "title": "Zero-Knowledge Proofs",
+        "content": "Cryptographic protocols that verify information without revealing the information itself.",
+        "url": "/doc165",
+        "lastUpdated": "2024-02-20"
+    },
+    {
+        "id": 166,
+        "title": "Post-Quantum Cryptography",
+        "content": "Encryption algorithms designed to be secure against quantum computer attacks.",
+        "url": "/doc166",
+        "lastUpdated": "2024-03-05"
+    },
+    {
+        "id": 167,
+        "title": "Secure Access Service Edge",
+        "content": "Cloud-based security framework combining network security functions with WAN capabilities.",
+        "url": "/doc167",
+        "lastUpdated": "2024-04-10"
+    },
+    {
+        "id": 168,
+        "title": "Hardware Security Modules",
+        "content": "Physical devices that manage digital keys and perform cryptographic operations securely.",
+        "url": "/doc168",
+        "lastUpdated": "2024-01-30"
+    },
+    {
+        "id": 169,
+        "title": "Biometric Security Systems",
+        "content": "Authentication methods using unique biological characteristics like fingerprints and facial recognition.",
+        "url": "/doc169",
+        "lastUpdated": "2024-05-22"
+    },
+    {
+        "id": 170,
+        "title": "Security Information Management",
+        "content": "Collecting, monitoring, and analyzing security-related data from various sources.",
+        "url": "/doc170",
+        "lastUpdated": "2024-02-05"
+    },
+    {
+        "id": 171,
+        "title": "Privacy Engineering",
+        "content": "Systematic approach to building privacy protections into systems and processes.",
+        "url": "/doc171",
+        "lastUpdated": "2024-03-15"
+    },
+    {
+        "id": 172,
+        "title": "Compliance Automation",
+        "content": "Tools that automatically monitor and enforce regulatory requirements.",
+        "url": "/doc172",
+        "lastUpdated": "2024-04-18"
+    },
+    {
+        "id": 173,
+        "title": "Incident Response Planning",
+        "content": "Preparing for and managing cybersecurity breaches effectively.",
+        "url": "/doc173",
+        "lastUpdated": "2024-01-12"
+    },
+    {
+        "id": 174,
+        "title": "Vulnerability Management",
+        "content": "Continuous process of identifying, classifying, prioritizing, and mitigating security vulnerabilities.",
+        "url": "/doc174",
+        "lastUpdated": "2024-05-30"
+    },
+    {
+        "id": 175,
+        "title": "Security Awareness Training",
+        "content": "Educating employees to recognize and prevent security threats like phishing.",
+        "url": "/doc175",
+        "lastUpdated": "2024-02-28"
+    },
+    {
+        "id": 176,
+        "title": "Penetration Testing Methods",
+        "content": "Simulated cyber attacks to evaluate system security and identify vulnerabilities.",
+        "url": "/doc176",
+        "lastUpdated": "2024-03-22"
+    },
+    {
+        "id": 177,
+        "title": "Red Team Exercises",
+        "content": "Simulated attacks by ethical hackers to test an organization's security defenses.",
+        "url": "/doc177",
+        "lastUpdated": "2024-04-05"
+    },
+    {
+        "id": 178,
+        "title": "Blue Team Defense",
+        "content": "Security professionals responsible for defending against cyber attacks.",
+        "url": "/doc178",
+        "lastUpdated": "2024-01-08"
+    },
+    {
+        "id": 179,
+        "title": "Purple Teaming",
+        "content": "Collaborative approach where red and blue teams work together to improve security.",
+        "url": "/doc179",
+        "lastUpdated": "2024-05-18"
+    },
+    {
+        "id": 180,
+        "title": "Threat Hunting",
+        "content": "Proactive search for cyber threats that evade existing security solutions.",
+        "url": "/doc180",
+        "lastUpdated": "2024-02-15"
+    },
+    {
+        "id": 181,
+        "title": "Security Analytics",
+        "content": "Using data analysis to detect and investigate security threats.",
+        "url": "/doc181",
+        "lastUpdated": "2024-03-28"
+    },
+    {
+        "id": 182,
+        "title": "User Behavior Analytics",
+        "content": "Monitoring user activities to detect anomalies that may indicate security threats.",
+        "url": "/doc182",
+        "lastUpdated": "2024-04-12"
+    },
+    {
+        "id": 183,
+        "title": "Cloud Security Posture Management",
+        "content": "Continuous monitoring and enforcement of security policies in cloud environments.",
+        "url": "/doc183",
+        "lastUpdated": "2024-01-25"
+    },
+    {
+        "id": 184,
+        "title": "Container Security",
+        "content": "Protecting containerized applications and their infrastructure.",
+        "url": "/doc184",
+        "lastUpdated": "2024-05-05"
+    },
+    {
+        "id": 185,
+        "title": "API Security Best Practices",
+        "content": "Protecting application programming interfaces from attacks and abuse.",
+        "url": "/doc185",
+        "lastUpdated": "2024-02-10"
+    },
+    {
+        "id": 186,
+        "title": "Data Loss Prevention",
+        "content": "Strategies and tools to prevent sensitive data from leaving an organization.",
+        "url": "/doc186",
+        "lastUpdated": "2024-03-08"
+    },
+    {
+        "id": 187,
+        "title": "Identity Governance",
+        "content": "Managing user identities and access rights across systems.",
+        "url": "/doc187",
+        "lastUpdated": "2024-04-22"
+    },
+    {
+        "id": 188,
+        "title": "Privileged Access Management",
+        "content": "Controlling and monitoring access for administrative accounts.",
+        "url": "/doc188",
+        "lastUpdated": "2024-01-15"
+    },
+    {
+        "id": 189,
+        "title": "Endpoint Detection and Response",
+        "content": "Security solutions that monitor endpoint devices for malicious activity.",
+        "url": "/doc189",
+        "lastUpdated": "2024-05-28"
+    },
+    {
+        "id": 190,
+        "title": "Managed Security Services",
+        "content": "Outsourcing security operations to specialized providers.",
+        "url": "/doc190",
+        "lastUpdated": "2024-02-25"
+    },
+    {
+        "id": 191,
+        "title": "Security Operations Centers",
+        "content": "Centralized units that monitor, detect, analyze, and respond to cybersecurity incidents.",
+        "url": "/doc191",
+        "lastUpdated": "2024-03-18"
+    },
+    {
+        "id": 192,
+        "title": "Cyber Threat Intelligence",
+        "content": "Information about threats and threat actors that helps organizations protect against attacks.",
+        "url": "/doc192",
+        "lastUpdated": "2024-04-30"
+    },
+    {
+        "id": 193,
+        "title": "Security Automation",
+        "content": "Using technology to perform security tasks without human intervention.",
+        "url": "/doc193",
+        "lastUpdated": "2024-01-08"
+    },
+    {
+        "id": 194,
+        "title": "Security Compliance Frameworks",
+        "content": "Standards and regulations that guide cybersecurity practices.",
+        "url": "/doc194",
+        "lastUpdated": "2024-05-22"
+    },
+    {
+        "id": 195,
+        "title": "Cloud Access Security Brokers",
+        "content": "Security policy enforcement points between cloud service users and providers.",
+        "url": "/doc195",
+        "lastUpdated": "2024-02-03"
+    },
+    {
+        "id": 196,
+        "title": "Secure Software Development",
+        "content": "Integrating security practices throughout the software development lifecycle.",
+        "url": "/doc196",
+        "lastUpdated": "2024-03-12"
+    },
+    {
+        "id": 197,
+        "title": "DevSecOps Practices",
+        "content": "Integrating security into DevOps processes for continuous security assurance.",
+        "url": "/doc197",
+        "lastUpdated": "2024-04-25"
+    },
+    {
+        "id": 198,
+        "title": "Application Security Testing",
+        "content": "Techniques for identifying vulnerabilities in software applications.",
+        "url": "/doc198",
+        "lastUpdated": "2024-01-20"
+    },
+    {
+        "id": 199,
+        "title": "Runtime Application Protection",
+        "content": "Security solutions that detect and block application attacks in real-time.",
+        "url": "/doc199",
+        "lastUpdated": "2024-05-15"
+    },
+    {
+        "id": 200,
+        "title": "Software Composition Analysis",
+        "content": "Identifying open-source components and their vulnerabilities in applications.",
+        "url": "/doc200",
+        "lastUpdated": "2024-02-10"
+    },
+    {
+        "id": 201,
+        "title": "Infrastructure as Code Security",
+        "content": "Securing infrastructure defined through machine-readable configuration files.",
+        "url": "/doc201",
+        "lastUpdated": "2024-03-05"
+    },
+    {
+        "id": 202,
+        "title": "Cloud Workload Protection",
+        "content": "Security solutions for virtual machines, containers, and serverless functions in the cloud.",
+        "url": "/doc202",
+        "lastUpdated": "2024-04-15"
+    },
+    {
+        "id": 203,
+        "title": "Data Privacy Management",
+        "content": "Processes and tools for ensuring compliance with data protection regulations.",
+        "url": "/doc203",
+        "lastUpdated": "2024-01-25"
+    },
+    {
+        "id": 204,
+        "title": "Consent Management Platforms",
+        "content": "Tools for managing user consent for data collection and processing.",
+        "url": "/doc204",
+        "lastUpdated": "2024-05-10"
+    },
+    {
+        "id": 205,
+        "title": "Data Masking Techniques",
+        "content": "Protecting sensitive data by obscuring it in non-production environments.",
+        "url": "/doc205",
+        "lastUpdated": "2024-02-20"
+    },
+    {
+        "id": 206,
+        "title": "Tokenization Security",
+        "content": "Replacing sensitive data with non-sensitive equivalents that have no exploitable value.",
+        "url": "/doc206",
+        "lastUpdated": "2024-03-22"
+    },
+    {
+        "id": 207,
+        "title": "Secure Multi-party Computation",
+        "content": "Cryptographic protocols that enable joint computation on private inputs.",
+        "url": "/doc207",
+        "lastUpdated": "2024-04-28"
+    },
+    {
+        "id": 208,
+        "title": "Differential Privacy",
+        "content": "Technique for sharing information about datasets while preserving individual privacy.",
+        "url": "/doc208",
+        "lastUpdated": "2024-01-12"
+    },
+    {
+        "id": 209,
+        "title": "Privacy Enhancing Technologies",
+        "content": "Tools and methods that enable data use while protecting personal information.",
+        "url": "/doc209",
+        "lastUpdated": "2024-05-25"
+    },
+    {
+        "id": 210,
+        "title": "Data Sovereignty Solutions",
+        "content": "Ensuring data is stored and processed in compliance with geographic regulations.",
+        "url": "/doc210",
+        "lastUpdated": "2024-02-05"
+    },
+    {
+        "id": 211,
+        "title": "AI Governance Frameworks",
+        "content": "Structures for ensuring ethical and responsible development and use of artificial intelligence.",
+        "url": "/doc211",
+        "lastUpdated": "2024-03-10"
+    },
+    {
+        "id": 212,
+        "title": "Explainable AI Standards",
+        "content": "Requirements for making AI decision-making processes transparent and understandable.",
+        "url": "/doc212",
+        "lastUpdated": "2024-04-20"
+    },
+    {
+        "id": 213,
+        "title": "AI Ethics Committees",
+        "content": "Organizational bodies that oversee ethical considerations in AI development and deployment.",
+        "url": "/doc213",
+        "lastUpdated": "2024-01-18"
+    },
+    {
+        "id": 214,
+        "title": "Responsible AI Practices",
+        "content": "Guidelines for developing AI systems that are fair, accountable, and transparent.",
+        "url": "/doc214",
+        "lastUpdated": "2024-05-12"
+    },
+    {
+        "id": 215,
+        "title": "AI Bias Mitigation",
+        "content": "Techniques for identifying and reducing discriminatory outcomes in AI systems.",
+        "url": "/doc215",
+        "lastUpdated": "2024-02-15"
+    },
+    {
+        "id": 216,
+        "title": "AI Safety Research",
+        "content": "Ensuring AI systems behave as intended and align with human values.",
+        "url": "/doc216",
+        "lastUpdated": "2024-03-25"
+    },
+    {
+        "id": 217,
+        "title": "AI Regulation Compliance",
+        "content": "Adhering to legal frameworks governing artificial intelligence applications.",
+        "url": "/doc217",
+        "lastUpdated": "2024-04-08"
+    },
+    {
+        "id": 218,
+        "title": "AI in Healthcare Ethics",
+        "content": "Ethical considerations for using AI in medical diagnosis, treatment, and research.",
+        "url": "/doc218",
+        "lastUpdated": "2024-01-30"
+    },
+    {
+        "id": 219,
+        "title": "Autonomous Systems Ethics",
+        "content": "Moral frameworks for self-driving cars, drones, and other autonomous technologies.",
+        "url": "/doc219",
+        "lastUpdated": "2024-05-30"
+    },
+    {
+        "id": 220,
+        "title": "AI Transparency Standards",
+        "content": "Requirements for disclosing when and how AI systems are being used.",
+        "url": "/doc220",
+        "lastUpdated": "2024-02-28"
+    },
+    {
+        "id": 221,
+        "title": "Sustainable AI Development",
+        "content": "Reducing the environmental impact of training and running large AI models.",
+        "url": "/doc221",
+        "lastUpdated": "2024-03-15"
+    },
+    {
+        "id": 222,
+        "title": "AI for Social Good",
+        "content": "Applications of artificial intelligence to address societal challenges.",
+        "url": "/doc222",
+        "lastUpdated": "2024-04-22"
+    },
+    {
+        "id": 223,
+        "title": "Human-AI Collaboration",
+        "content": "Designing systems where humans and AI work together effectively.",
+        "url": "/doc223",
+        "lastUpdated": "2024-01-10"
+    },
+    {
+        "id": 224,
+        "title": "AI in Education Ethics",
+        "content": "Ethical considerations for using AI in learning environments and student assessment.",
+        "url": "/doc224",
+        "lastUpdated": "2024-05-18"
+    },
+    {
+        "id": 225,
+        "title": "AI Accountability Frameworks",
+        "content": "Structures for determining responsibility when AI systems cause harm.",
+        "url": "/doc225",
+        "lastUpdated": "2024-02-05"
+    },
+    {
+        "id": 226,
+        "title": "Generative AI Ethics",
+        "content": "Ethical considerations for AI systems that create content, art, and media.",
+        "url": "/doc226",
+        "lastUpdated": "2024-03-08"
+    },
+    {
+        "id": 227,
+        "title": "AI and Intellectual Property",
+        "content": "Legal frameworks for creations generated by artificial intelligence systems.",
+        "url": "/doc227",
+        "lastUpdated": "2024-04-15"
+    },
+    {
+        "id": 228,
+        "title": "AI in Criminal Justice Ethics",
+        "content": "Ethical implications of using AI in policing, sentencing, and parole decisions.",
+        "url": "/doc228",
+        "lastUpdated": "2024-01-22"
+    },
+    {
+        "id": 229,
+        "title": "Algorithmic Impact Assessments",
+        "content": "Evaluating the potential consequences of AI systems before deployment.",
+        "url": "/doc229",
+        "lastUpdated": "2024-05-25"
+    },
+    {
+        "id": 230,
+        "title": "AI Fairness Metrics",
+        "content": "Quantitative measures for evaluating and ensuring fairness in AI systems.",
+        "url": "/doc230",
+        "lastUpdated": "2024-02-10"
+    },
+    {
+        "id": 231,
+        "title": "AI Explainability Techniques",
+        "content": "Methods for making AI decision-making processes understandable to humans.",
+        "url": "/doc231",
+        "lastUpdated": "2024-03-18"
+    },
+    {
+        "id": 232,
+        "title": "AI Robustness Testing",
+        "content": "Evaluating how AI systems perform under unexpected conditions or adversarial attacks.",
+        "url": "/doc232",
+        "lastUpdated": "2024-04-28"
+    },
+    {
+        "id": 233,
+        "title": "AI System Monitoring",
+        "content": "Tracking AI performance and behavior in production environments.",
+        "url": "/doc233",
+        "lastUpdated": "2024-01-15"
+    },
+    {
+        "id": 234,
+        "title": "AI Model Governance",
+        "content": "Managing the lifecycle of AI models from development to retirement.",
+        "url": "/doc234",
+        "lastUpdated": "2024-05-10"
+    },
+    {
+        "id": 235,
+        "title": "AI Risk Management",
+        "content": "Identifying, assessing, and mitigating risks associated with AI systems.",
+        "url": "/doc235",
+        "lastUpdated": "2024-02-20"
+    },
+    {
+        "id": 236,
+        "title": "AI Audit Frameworks",
+        "content": "Systematic examination of AI systems for compliance, performance, and ethics.",
+        "url": "/doc236",
+        "lastUpdated": "2024-03-05"
+    },
+    {
+        "id": 237,
+        "title": "AI Certification Programs",
+        "content": "Standards and processes for verifying that AI systems meet specific requirements.",
+        "url": "/doc237",
+        "lastUpdated": "2024-04-12"
+    },
+    {
+        "id": 238,
+        "title": "AI Incident Response",
+        "content": "Procedures for addressing failures or harmful behaviors in AI systems.",
+        "url": "/doc238",
+        "lastUpdated": "2024-01-28"
+    },
+    {
+        "id": 239,
+        "title": "AI Safety Standards",
+        "content": "Technical specifications for ensuring AI systems operate safely and reliably.",
+        "url": "/doc239",
+        "lastUpdated": "2024-05-22"
+    },
+    {
+        "id": 240,
+        "title": "AI Alignment Research",
+        "content": "Ensuring AI systems' goals are aligned with human values and intentions.",
+        "url": "/doc240",
+        "lastUpdated": "2024-02-15"
+    },
+    {
+        "id": 241,
+        "title": "AI Value Learning",
+        "content": "Methods for AI systems to learn and adhere to human values.",
+        "url": "/doc241",
+        "lastUpdated": "2024-03-22"
+    },
+    {
+        "id": 242,
+        "title": "Corrigible AI Systems",
+        "content": "AI designed to allow human intervention and correction.",
+        "url": "/doc242",
+        "lastUpdated": "2024-04-05"
+    },
+    {
+        "id": 243,
+        "title": "AI Interpretability Tools",
+        "content": "Software for understanding how AI models make decisions.",
+        "url": "/doc243",
+        "lastUpdated": "2024-01-08"
+    },
+    {
+        "id": 244,
+        "title": "AI Assurance Frameworks",
+        "content": "Comprehensive approaches to ensuring AI systems are trustworthy and reliable.",
+        "url": "/doc244",
+        "lastUpdated": "2024-05-28"
+    },
+    {
+        "id": 245,
+        "title": "AI in Financial Services Ethics",
+        "content": "Ethical considerations for AI applications in banking, investing, and insurance.",
+        "url": "/doc245",
+        "lastUpdated": "2024-02-25"
+    },
+    {
+        "id": 246,
+        "title": "AI in Hiring Practices",
+        "content": "Ethical use of AI for recruitment, screening, and selection processes.",
+        "url": "/doc246",
+        "lastUpdated": "2024-03-10"
+    },
+    {
+        "id": 247,
+        "title": "AI for Environmental Sustainability",
+        "content": "Applications of AI to address climate change and environmental challenges.",
+        "url": "/doc247",
+        "lastUpdated": "2024-04-18"
+    },
+    {
+        "id": 248,
+        "title": "AI in Agriculture Ethics",
+        "content": "Ethical considerations for AI applications in farming and food production.",
+        "url": "/doc248",
+        "lastUpdated": "2024-01-20"
+    },
+    {
+        "id": 249,
+        "title": "AI for Disaster Response",
+        "content": "Using artificial intelligence to predict, prepare for, and respond to natural disasters.",
+        "url": "/doc249",
+        "lastUpdated": "2024-05-15"
+    },
+    {
+        "id": 250,
+        "title": "AI in Transportation Ethics",
+        "content": "Ethical implications of AI in self-driving vehicles and traffic management systems.",
+        "url": "/doc250",
+        "lastUpdated": "2024-02-03"
+    },
+    {
+        "id": 251,
+        "title": "AI for Public Services",
+        "content": "Ethical deployment of AI in government services and public administration.",
+        "url": "/doc251",
+        "lastUpdated": "2024-03-12"
+    },
+    {
+        "id": 252,
+        "title": "AI and Human Rights",
+        "content": "Ensuring AI technologies respect and protect fundamental human rights.",
+        "url": "/doc252",
+        "lastUpdated": "2024-04-25"
+    },
+    {
+        "id": 253,
+        "title": "AI for Accessibility",
+        "content": "Using artificial intelligence to create technologies that assist people with disabilities.",
+        "url": "/doc253",
+        "lastUpdated": "2024-01-25"
+    },
+    {
+        "id": 254,
+        "title": "AI in Mental Health Applications",
+        "content": "Ethical considerations for using AI in psychological assessment and therapy.",
+        "url": "/doc254",
+        "lastUpdated": "2024-05-30"
+    },
+    {
+        "id": 255,
+        "title": "AI and Digital Inclusion",
+        "content": "Ensuring AI technologies benefit all segments of society equitably.",
+        "url": "/doc255",
+        "lastUpdated": "2024-02-10"
+    },
+    {
+        "id": 256,
+        "title": "AI for Scientific Discovery",
+        "content": "Accelerating research in fields like medicine, physics, and materials science through AI.",
+        "url": "/doc256",
+        "lastUpdated": "2024-03-15"
+    },
+    {
+        "id": 257,
+        "title": "AI in Space Exploration",
+        "content": "Applications of artificial intelligence in satellite operations and planetary exploration.",
+        "url": "/doc257",
+        "lastUpdated": "2024-04-22"
+    },
+    {
+        "id": 258,
+        "title": "AI for Wildlife Conservation",
+        "content": "Using computer vision and machine learning to monitor and protect endangered species.",
+        "url": "/doc258",
+        "lastUpdated": "2024-01-12"
+    },
+    {
+        "id": 259,
+        "title": "AI in Oceanography",
+        "content": "Applications of artificial intelligence to study marine ecosystems and climate patterns.",
+        "url": "/doc259",
+        "lastUpdated": "2024-05-20"
+    },
+    {
+        "id": 260,
+        "title": "AI for Cultural Heritage",
+        "content": "Using machine learning to preserve, analyze, and restore historical artifacts and sites.",
+        "url": "/doc260",
+        "lastUpdated": "2024-02-18"
+    },
+    {
+        "id": 261,
+        "title": "AI in Sports Analytics",
+        "content": "Applying machine learning to player performance analysis and game strategy development.",
+        "url": "/doc261",
+        "lastUpdated": "2024-03-28"
+    },
+    {
+        "id": 262,
+        "title": "AI for Music Composition",
+        "content": "Generating original musical pieces using machine learning algorithms.",
+        "url": "/doc262",
+        "lastUpdated": "2024-04-05"
+    },
+    {
+        "id": 263,
+        "title": "AI in Culinary Arts",
+        "content": "Applications of artificial intelligence in recipe development and food science.",
+        "url": "/doc263",
+        "lastUpdated": "2024-01-15"
+    },
+    {
+        "id": 264,
+        "title": "AI for Fashion Design",
+        "content": "Using machine learning for trend forecasting, design generation, and personalized styling.",
+        "url": "/doc264",
+        "lastUpdated": "2024-05-25"
+    },
+    {
+        "id": 265,
+        "title": "AI in Architecture",
+        "content": "Applications of artificial intelligence in building design and urban planning.",
+        "url": "/doc265",
+        "lastUpdated": "2024-02-22"
+    },
+    {
+        "id": 266,
+        "title": "AI for Personal Finance",
+        "content": "Machine learning applications for budgeting, investing, and financial planning.",
+        "url": "/doc266",
+        "lastUpdated": "2024-03-08"
+    },
+    {
+        "id": 267,
+        "title": "AI in Real Estate",
+        "content": "Applications of artificial intelligence for property valuation and market analysis.",
+        "url": "/doc267",
+        "lastUpdated": "2024-04-15"
+    },
+    {
+        "id": 268,
+        "title": "AI for Supply Chain Optimization",
+        "content": "Using machine learning to improve logistics, inventory management, and demand forecasting.",
+        "url": "/doc268",
+        "lastUpdated": "2024-01-28"
+    },
+    {
+        "id": 269,
+        "title": "AI in Manufacturing Quality Control",
+        "content": "Computer vision systems for defect detection and quality assurance in production lines.",
+        "url": "/doc269",
+        "lastUpdated": "2024-05-12"
+    },
+    {
+        "id": 270,
+        "title": "AI for Predictive Maintenance",
+        "content": "Machine learning algorithms that forecast equipment failures before they occur.",
+        "url": "/doc270",
+        "lastUpdated": "2024-02-05"
+    },
+    {
+        "id": 271,
+        "title": "AI in Energy Management",
+        "content": "Optimizing energy consumption and distribution using artificial intelligence.",
+        "url": "/doc271",
+        "lastUpdated": "2024-03-18"
+    },
+    {
+        "id": 272,
+        "title": "AI for Water Conservation",
+        "content": "Applications of machine learning in monitoring and managing water resources.",
+        "url": "/doc272",
+        "lastUpdated": "2024-04-22"
+    },
+    {
+        "id": 273,
+        "title": "AI in Waste Management",
+        "content": "Optimizing recycling and waste collection routes using artificial intelligence.",
+        "url": "/doc273",
+        "lastUpdated": "2024-01-10"
+    },
+    {
+        "id": 274,
+        "title": "AI for Air Quality Monitoring",
+        "content": "Using sensors and machine learning to track and predict pollution levels.",
+        "url": "/doc274",
+        "lastUpdated": "2024-05-28"
+    },
+    {
+        "id": 275,
+        "title": "AI in Forestry Management",
+        "content": "Applications of artificial intelligence for monitoring forest health and preventing wildfires.",
+        "url": "/doc275",
+        "lastUpdated": "2024-02-15"
+    },
+    {
+        "id": 276,
+        "title": "AI for Crop Monitoring",
+        "content": "Using satellite imagery and machine learning to assess agricultural field conditions.",
+        "url": "/doc276",
+        "lastUpdated": "2024-03-25"
+    },
+    {
+        "id": 277,
+        "title": "AI in Pest Control",
+        "content": "Early detection and targeted intervention for agricultural pests using computer vision.",
+        "url": "/doc277",
+        "lastUpdated": "2024-04-08"
+    },
+    {
+        "id": 278,
+        "title": "AI for Precision Irrigation",
+        "content": "Optimizing water usage in agriculture through sensor networks and machine learning.",
+        "url": "/doc278",
+        "lastUpdated": "2024-01-22"
+    },
+    {
+        "id": 279,
+        "title": "AI in Livestock Monitoring",
+        "content": "Tracking animal health and behavior using computer vision and sensor technologies.",
+        "url": "/doc279",
+        "lastUpdated": "2024-05-20"
+    },
+    {
+        "id": 280,
+        "title": "AI for Aquaculture",
+        "content": "Applications of artificial intelligence in fish farming and aquatic ecosystem management.",
+        "url": "/doc280",
+        "lastUpdated": "2024-02-28"
+    },
+    {
+        "id": 281,
+        "title": "AI in Mining Operations",
+        "content": "Optimizing resource extraction and processing through machine learning applications.",
+        "url": "/doc281",
+        "lastUpdated": "2024-03-05"
+    },
+    {
+        "id": 282,
+        "title": "AI for Oil and Gas Exploration",
+        "content": "Using machine learning to analyze seismic data and identify potential drilling sites.",
+        "url": "/doc282",
+        "lastUpdated": "2024-04-12"
+    },
+    {
+        "id": 283,
+        "title": "AI in Renewable Energy",
+        "content": "Optimizing solar and wind power generation through predictive analytics.",
+        "url": "/doc283",
+        "lastUpdated": "2024-01-18"
+    },
+    {
+        "id": 284,
+        "title": "AI for Smart Grids",
+        "content": "Balancing energy supply and demand through intelligent grid management systems.",
+        "url": "/doc284",
+        "lastUpdated": "2024-05-22"
+    },
+    {
+        "id": 285,
+        "title": "AI in Battery Technology",
+        "content": "Accelerating development of energy storage solutions through machine learning.",
+        "url": "/doc285",
+        "lastUpdated": "2024-02-10"
+    },
+    {
+        "id": 286,
+        "title": "AI for Carbon Capture",
+        "content": "Optimizing technologies that remove CO2 from the atmosphere using artificial intelligence.",
+        "url": "/doc286",
+        "lastUpdated": "2024-03-15"
+    },
+    {
+        "id": 287,
+        "title": "AI in Climate Modeling",
+        "content": "Improving accuracy of climate predictions through machine learning techniques.",
+        "url": "/doc287",
+        "lastUpdated": "2024-04-25"
+    },
+    {
+        "id": 288,
+        "title": "AI for Disaster Prediction",
+        "content": "Early warning systems for natural disasters using artificial intelligence.",
+        "url": "/doc288",
+        "lastUpdated": "2024-01-08"
+    },
+    {
+        "id": 289,
+        "title": "AI in Epidemiology",
+        "content": "Tracking and predicting disease spread using machine learning models.",
+        "url": "/doc289",
+        "lastUpdated": "2024-05-30"
+    },
+    {
+        "id": 290,
+        "title": "AI for Drug Discovery",
+        "content": "Accelerating pharmaceutical research through machine learning applications.",
+        "url": "/doc290",
+        "lastUpdated": "2024-02-20"
+    },
+    {
+        "id": 291,
+        "title": "AI in Medical Imaging",
+        "content": "Improving diagnostic accuracy through computer vision analysis of scans and X-rays.",
+        "url": "/doc291",
+        "lastUpdated": "2024-03-22"
+    },
+    {
+        "id": 292,
+        "title": "AI for Personalized Medicine",
+        "content": "Tailoring medical treatments to individual patients based on genetic and clinical data.",
+        "url": "/doc292",
+        "lastUpdated": "2024-04-05"
+    },
+    {
+        "id": 293,
+        "title": "AI in Surgery Assistance",
+        "content": "Robotic systems and computer vision for enhancing precision in surgical procedures.",
+        "url": "/doc293",
+        "lastUpdated": "2024-01-25"
+    },
+    {
+        "id": 294,
+        "title": "AI for Mental Health Support",
+        "content": "Chatbots and monitoring systems that provide psychological assistance and crisis intervention.",
+        "url": "/doc294",
+        "lastUpdated": "2024-05-18"
+    },
+    {
+        "id": 295,
+        "title": "AI in Elder Care",
+        "content": "Monitoring systems and companion robots that assist elderly individuals.",
+        "url": "/doc295",
+        "lastUpdated": "2024-02-03"
+    },
+    {
+        "id": 296,
+        "title": "AI for Rehabilitation",
+        "content": "Personalized therapy programs and assistive devices powered by machine learning.",
+        "url": "/doc296",
+        "lastUpdated": "2024-03-28"
+    },
+    {
+        "id": 297,
+        "title": "AI in Prosthetics",
+        "content": "Advanced limb replacements with neural interfaces and adaptive control systems.",
+        "url": "/doc297",
+        "lastUpdated": "2024-04-15"
+    },
+    {
+        "id": 298,
+        "title": "AI for Genomic Analysis",
+        "content": "Interpreting DNA sequences to identify disease risks and potential treatments.",
+        "url": "/doc298",
+        "lastUpdated": "2024-01-30"
+    },
+    {
+        "id": 299,
+        "title": "AI in Clinical Trials",
+        "content": "Optimizing participant selection and monitoring in medical research studies.",
+        "url": "/doc299",
+        "lastUpdated": "2024-05-25"
+    },
+    {
+        "id": 300,
+        "title": "AI for Pandemic Response",
+        "content": "Coordinating resources and predicting spread during global health crises.",
+        "url": "/doc300",
+        "lastUpdated": "2024-02-12"
+    }
+]
