@@ -1,5 +1,3 @@
-Here's the complete, properly formatted **README.md** for your TF-IDF Search Engine project:
-
 🔍 TF-IDF Search Engine - Intelligent Document Retrieval
 
 ![Search Engine Demo](demo.gif)  
@@ -144,7 +142,7 @@ npm run dev  # Runs on http://localhost:3000
 | No suggestions | Ensure query has ≥3 characters |
 
 ## 📜 License
-MIT License - Copyright © 2023 Khin Nara
+MIT License - Copyright © 2025 Khin Nara
 
 ## 🙋‍♂️ Support
 For support, please:
